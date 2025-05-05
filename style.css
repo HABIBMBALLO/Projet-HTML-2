@@ -75,7 +75,6 @@ a.active {
   h1 {
     text-align: center;
     color: #ffffff;
-  }
     margin-bottom: 5px;
     font-weight: bold;
   }
@@ -123,8 +122,6 @@ a.active {
     text-align: center;
     padding: 10px;
     position: fixed
-    bottom: 0;
-    width: 100%;
   }
   .footer p {
     margin: 0;
@@ -141,18 +138,7 @@ a.active {
   }
   .footer a:active {
     color: #555;
-  } -->
-  </div>
-
-  <!-- FOOTER -->
-  <footer class="footer">
-    <p>&copy; 2023 Délicieuses bouchées. Tous droits réservés.</p>
-  </footer>
-
-</body>
-
-</html> -->
-<style>
+  } 
   /* Ajouter une police de caractères plus grande */
   body {
     font-size: 18px;
@@ -202,7 +188,7 @@ a.active {
   }
   /* Ajouter un style pour les titres */
   h1, h2 {
-    color: #333;
+    color: #ffffff;
     text-align: center;
   } 
   /* Ajouter un style pour le conteneur principal */
